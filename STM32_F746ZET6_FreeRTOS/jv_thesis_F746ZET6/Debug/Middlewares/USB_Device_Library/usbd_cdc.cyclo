@@ -1,0 +1,15 @@
+C:/Users/jvlsq/STM32Cube/Repository/STM32Cube_FW_F7_V1.17.0/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:288:16:USBD_CDC_Init	5
+C:/Users/jvlsq/STM32Cube/Repository/STM32Cube_FW_F7_V1.17.0/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:389:16:USBD_CDC_DeInit	2
+C:/Users/jvlsq/STM32Cube/Repository/STM32Cube_FW_F7_V1.17.0/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:433:16:USBD_CDC_Setup	14
+C:/Users/jvlsq/STM32Cube/Repository/STM32Cube_FW_F7_V1.17.0/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:537:16:USBD_CDC_DataIn	5
+C:/Users/jvlsq/STM32Cube/Repository/STM32Cube_FW_F7_V1.17.0/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:578:16:USBD_CDC_DataOut	2
+C:/Users/jvlsq/STM32Cube/Repository/STM32Cube_FW_F7_V1.17.0/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:604:16:USBD_CDC_EP0_RxReady	4
+C:/Users/jvlsq/STM32Cube/Repository/STM32Cube_FW_F7_V1.17.0/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:630:17:USBD_CDC_GetFSCfgDesc	4
+C:/Users/jvlsq/STM32Cube/Repository/STM32Cube_FW_F7_V1.17.0/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:661:17:USBD_CDC_GetHSCfgDesc	4
+C:/Users/jvlsq/STM32Cube/Repository/STM32Cube_FW_F7_V1.17.0/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:692:17:USBD_CDC_GetOtherSpeedCfgDesc	4
+C:/Users/jvlsq/STM32Cube/Repository/STM32Cube_FW_F7_V1.17.0/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:723:10:USBD_CDC_GetDeviceQualifierDescriptor	1
+C:/Users/jvlsq/STM32Cube/Repository/STM32Cube_FW_F7_V1.17.0/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:736:9:USBD_CDC_RegisterInterface	2
+C:/Users/jvlsq/STM32Cube/Repository/STM32Cube_FW_F7_V1.17.0/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:764:9:USBD_CDC_SetTxBuffer	2
+C:/Users/jvlsq/STM32Cube/Repository/STM32Cube_FW_F7_V1.17.0/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:787:9:USBD_CDC_SetRxBuffer	2
+C:/Users/jvlsq/STM32Cube/Repository/STM32Cube_FW_F7_V1.17.0/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:814:9:USBD_CDC_TransmitPacket	3
+C:/Users/jvlsq/STM32Cube/Repository/STM32Cube_FW_F7_V1.17.0/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:854:9:USBD_CDC_ReceivePacket	3
